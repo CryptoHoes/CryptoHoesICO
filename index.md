@@ -1,4 +1,4 @@
-# A web3 platform by creatives for creatives
+# A Web3 platform by creatives for creatives
 ![CryptoHoes Logo](/Logo.png)
 
 Brands like Tiktok, Facebook, Snapchat, and more are constantly ccreating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
@@ -22,7 +22,9 @@ List of investors:
 
 1. 0x56f889b1aea64b81277bdd723ac858971ceb5606
 
+How to buy:
 
+We are currently private investment only, please email the dev team to purchase tokens.
 
 ### Our Team
 
