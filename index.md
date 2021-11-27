@@ -1,8 +1,8 @@
 ## A web3 platform by creatives for creatives
 
-<a align="center">
+<div align="center">
 ![CryptoHoes Logo](/Logo.png)
-</a>
+</div>
 
 Brands like Tiktok, Facebook, Snapchat, and more are constantly ccreating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
 
