@@ -26,7 +26,7 @@ This simple coin on Binance Smart Chain achieves the goal raising initial capita
 Original supply of coins minted: 69,420,000 HOES
 
 Founders Wallet: 0x788eEf4460Fc1e98e1ad648c9d190535012053EC
-Balance: $10,100,000 HOES
+Balance: 10,100,000 HOES
 
 List of investors:
 
