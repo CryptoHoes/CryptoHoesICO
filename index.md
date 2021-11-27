@@ -1,37 +1,37 @@
 ## A web3 platform by creatives for creatives
 
-You can use the [editor on GitHub](https://github.com/CryptoHoes/CryptoHoesICO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Brands like Tiktok, Facebook, Snapchat, and more are constantly ccreating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
+
+Our mission is to create a better platform by creatives for creatives with the power and tools of Web3.
+
 
 ### Our ICO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are a team of independent engineers and investors that are looking to raise funding for such a product in a humble way: Web3
 
-```markdown
-Syntax highlighted code block
+This simple coin on Binance Smart Chain achieves the goal raising initial capital, in which we can use proceeds to fund a further token development and then in return compensating original investors in a 1:1 even exchange.
 
-# Header 1
-## Header 2
-### Header 3
+Address of original contract: 0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2
+Original supply of coins minted: 69,420,000 HOES
 
-- Bulleted
-- List
+Founders Wallet: 0x788eEf4460Fc1e98e1ad648c9d190535012053EC
+Balance: $10,100,000 HOES
 
-1. Numbered
-2. List
+List of investors:
 
-**Bold** and _Italic_ and `Code` text
+1. 0x56f889b1aea64b81277bdd723ac858971ceb5606
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Our Team
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CryptoHoes/CryptoHoesICO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our team is organized on Snapchat through University connections and investor relations alike, we are working to make features worth investing in.
+
+
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble? Feel free to email all comments, questions and concersn to Cryptohoesdev@gmail.com and we will reach out/publicly announcce any updates on the project.
