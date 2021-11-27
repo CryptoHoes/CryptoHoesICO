@@ -21,7 +21,7 @@ We are a team of independent engineers and investors that are looking to raise f
 
 This simple coin on Binance Smart Chain achieves the goal raising initial capital, in which we can use proceeds to fund a further token development and then in return compensating original investors in a 1:1 even exchange.
 
-### Address of original contract: [0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
+##### Address of original contract: [0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
 Original supply of coins minted: 69,420,000 HOES
 
