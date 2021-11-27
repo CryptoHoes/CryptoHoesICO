@@ -1,7 +1,7 @@
 # A Web3 platform by creatives for creatives
 ![CryptoHoes Logo](/Logo.png)
 
-Brands like Tiktok, Facebook, Snapchat, and more are constantly ccreating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
+Brands like Tiktok, Facebook, Snapchat, and more are constantly creating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
 
 Our mission is to create a better platform by creatives for creatives with the power and tools of Web3.
 
