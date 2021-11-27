@@ -1,6 +1,8 @@
 ## A web3 platform by creatives for creatives
 
+<p align="center">
 ![Book logo](/Logo.png)
+</p>
 
 Brands like Tiktok, Facebook, Snapchat, and more are constantly ccreating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
 
