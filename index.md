@@ -22,7 +22,7 @@ List of investors:
 
 1. 0x56f889b1aea64b81277bdd723ac858971ceb5606
 
-How to buy:
+# How to buy $HOES
 
 We are currently private investment only, please email the dev team to purchase tokens.
 
