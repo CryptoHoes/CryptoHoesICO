@@ -45,3 +45,6 @@ Our team is organized on Snapchat through University connections and investor re
 ### Support or Contact
 
 Having trouble? Feel free to email all comments, questions and concersn to Cryptohoesdev@gmail.com and we will reach out/publicly announcce any updates on the project.
+
+### [Instagram](https://www.instagram.com/cryptohoesdev/)
+### [Twitter](https://twitter.com/cryptohoesdev)
