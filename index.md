@@ -22,7 +22,7 @@ Simple NFTs and ICO
 #### Bulding
 Floppy Cock: NFT Bird mobile app
 
-### Backlog
+#### Backlog
 1. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
 2. FLIPFLOP: A Tokenized Reels Mobile Platform
 3. BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
