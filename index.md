@@ -61,9 +61,21 @@ List of investors:
 
 1. Jon Gan
 
+Only 1M were allocated for public sale, 60M are in direct control of founder
+The remaining is being airdropped to candidates that are interested in development and testing.
+
 ## How to buy [$HOES](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
-Availible on [Pankcake Swap](https://pancakeswap.finance/swap) with limited liquidity, please be patient.
+Availible on [Pankcake Swap](https://pancakeswap.finance/swap) with limited liquidity AND AVAILIBILITY, please be patient.
+
+To purchase:
+1. Copy Contract Address
+2. Open Pancake Swap
+3. Add New Token in Exchange
+4. Paste Contract Address 
+5. Purchase
+
+
 
 ### Our Team
 
