@@ -1,5 +1,5 @@
 # A Web3 platform by creatives for creatives
-![CryptoHoes Logo](/Logo.png)
+![CryptoHoes Logo](/Logo.png)(https://poocoin.app/tokens/0xc76f08b7b723d3b0461cec8206710cd12d71f2a2)
 
 Brands like Tiktok, Facebook, Snapchat, and more are constantly creating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
 
@@ -31,7 +31,7 @@ Floppy Cock: NFT Bird mobile app
 
 
 
-### Our ICO
+### [Our ICO](https://poocoin.app/tokens/0xc76f08b7b723d3b0461cec8206710cd12d71f2a2)
 
 We are a team of independent engineers and investors that are looking to raise funding for such a product in a humble way: Web3
 
@@ -67,6 +67,8 @@ The remaining is being airdropped to candidates that are interested in developme
 ## How to buy [$HOES](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
 Availible on [Pankcake Swap](https://pancakeswap.finance/swap) with limited liquidity AND AVAILIBILITY, please be patient.
+
+[Click here to view Price/Trading Data](https://poocoin.app/tokens/0xc76f08b7b723d3b0461cec8206710cd12d71f2a2)
 
 To purchase:
 1. Copy Contract Address
