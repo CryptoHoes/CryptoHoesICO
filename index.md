@@ -91,3 +91,4 @@ Having trouble? Feel free to email all comments, questions and concersn to Crypt
 
 ### [Instagram](https://www.instagram.com/cryptohoesdev/)
 ### [Twitter](https://twitter.com/cryptohoesdev)
+### [Discord](https://discord.gg/zWTFjW8cds)
