@@ -7,11 +7,25 @@ Our mission is to create a better platform by creatives for creatives with the p
 
 ## Road map
 
+The coin itself was designed to raise capital, we have a few projects under our team in the works inlucding
+
+##### Built
+
+##### Bulding
+Floppy Cock: NFT Bird mobile app
+
+#### Backlog
+METADATA: A Tokenized Peer-Reviewed Article Publication Platform
+FLIPFLOP: A Tokenized Reels Mobile Platform
+BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
+Co-lab: A match making mobile app for musicians
+
+
 This is ccurrently very fluid, but here is list of goals we'd like to achieve
 1. Build our own original social media platform using React Native to create a $HOES token economy
-2. Circle back to original ICO contract and reevalutaute 
-3. Use Tokenomics that are both battle tested and rewarding to investors
-4. Build a way to have liquidity pools, staking and more!
+2. Circle back to original ICO contract and reevalutaute (BSC Drawbacks)
+3. Integrate Tokenomics that are both battle tested and rewarding to investors (Alternating Smart Contract Utility Implementations)
+4. New products that could exist on the ecosystem.
 
 Feel free to email if you are a VC interested in guding the project, we'd love to have professional audits/partnerships for investor relations
 
@@ -20,6 +34,19 @@ Feel free to email if you are a VC interested in guding the project, we'd love t
 We are a team of independent engineers and investors that are looking to raise funding for such a product in a humble way: Web3
 
 This simple coin on Binance Smart Chain achieves the goal raising initial capital, in which we can use proceeds to fund a further token development and then in return compensating original investors in a 1:1 even exchange.
+
+WE ARE AWARE OF THE BSC LIMITATIONS: 
+
+- Node failures
+- Binance limited dev support
+- Centralization
+
+Our goal is first and foremost to raise capital for project funding. 
+
+Implementation of coin utility is secondary until BSC improves or until we find solutions to mitigating the risks of BSC:
+-Altcoin hot swaps
+-Secondary token linked to original smart contract
+-New chain ICOs if agreed upon by investors.
 
 ###### Address of original contract: [0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
@@ -30,7 +57,7 @@ Balance: 10,100,000 HOES
 
 List of investors:
 
-1. 0x56f889b1aea64b81277bdd723ac858971ceb5606
+1. Jon Gan
 
 ## How to buy [$HOES](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
