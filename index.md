@@ -61,7 +61,7 @@ List of investors:
 
 1. Jon Gan
 
-Only 1M were allocated for public sale, 60M are in direct control of founder
+Only 1M were allocated for public sale, 60M are in direct control of founder.
 The remaining is being airdropped to candidates that are interested in development and testing.
 
 ## How to buy [$HOES](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
