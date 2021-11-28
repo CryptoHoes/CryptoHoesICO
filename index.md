@@ -31,7 +31,7 @@ Floppy Cock: NFT Bird mobile app
 
 
 
-### [Our ICO](https://poocoin.app/tokens/0xc76f08b7b723d3b0461cec8206710cd12d71f2a2)
+### [Our ICO](https://pancakeswap.finance/swap?outputCurrency=0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
 We are a team of independent engineers and investors that are looking to raise funding for such a product in a humble way: Web3
 
