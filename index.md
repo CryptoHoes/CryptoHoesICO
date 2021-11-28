@@ -1,5 +1,5 @@
 # A Web3 platform by creatives for creatives
-![CryptoHoes Logo](/Logo.png)(https://poocoin.app/tokens/0xc76f08b7b723d3b0461cec8206710cd12d71f2a2)
+[![CryptoHoes Logo](/Logo.png)](https://poocoin.app/tokens/0xc76f08b7b723d3b0461cec8206710cd12d71f2a2)
 
 Brands like Tiktok, Facebook, Snapchat, and more are constantly creating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
 
