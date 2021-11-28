@@ -10,15 +10,16 @@ Our mission is to create a better platform by creatives for creatives with the p
 The coin itself was designed to raise capital, we have a few projects under our team in the works inlucding
 
 ##### Built
+Simple NFTs and ICO
 
 ##### Bulding
 Floppy Cock: NFT Bird mobile app
 
 #### Backlog
-METADATA: A Tokenized Peer-Reviewed Article Publication Platform
-FLIPFLOP: A Tokenized Reels Mobile Platform
-BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
-Co-lab: A match making mobile app for musicians
+1. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
+2. FLIPFLOP: A Tokenized Reels Mobile Platform
+3. BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
+4. Co-lab: A match making mobile app for musicians
 
 
 This is ccurrently very fluid, but here is list of goals we'd like to achieve
