@@ -1,4 +1,11 @@
 # A Web3 platform by creatives for creatives
+
+### [Instagram](https://www.instagram.com/cryptohoesdev/)
+### [Twitter](https://twitter.com/cryptohoesdev)
+### [Discord](https://discord.gg/zWTFjW8cds)
+
+
+
 [![CryptoHoes Logo](/Logo.png)](https://pancakeswap.finance/swap?outputCurrency=0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
 Brands like Tiktok, Facebook, Snapchat, and more are constantly creating new 'products' that thrive off the financing of our data without any regard for our compensation to the point that virality seems like a gimmicc.
@@ -88,7 +95,3 @@ Our team is organized on Snapchat through University connections and investor re
 ### Support or Contact
 
 Having trouble? Feel free to email all comments, questions and concersn to Cryptohoesdev@gmail.com and we will reach out/publicly announcce any updates on the project.
-
-### [Instagram](https://www.instagram.com/cryptohoesdev/)
-### [Twitter](https://twitter.com/cryptohoesdev)
-### [Discord](https://discord.gg/zWTFjW8cds)
