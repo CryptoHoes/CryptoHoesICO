@@ -66,7 +66,7 @@ The remaining is being airdropped to candidates that are interested in developme
 
 ## How to buy [$HOES](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
-Availible on [Pankcake Swap](https://pancakeswap.finance/swap) with limited liquidity AND AVAILIBILITY, please be patient.
+Availible on [Pankcake Swap](https://pancakeswap.finance/swap?outputCurrency=0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2) with limited liquidity AND AVAILIBILITY, please be patient.
 
 [Click here to view Price/Trading Data](https://poocoin.app/tokens/0xc76f08b7b723d3b0461cec8206710cd12d71f2a2)
 
