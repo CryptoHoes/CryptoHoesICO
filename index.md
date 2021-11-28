@@ -34,7 +34,7 @@ List of investors:
 
 ## How to buy [$HOES](https://bscscan.com/token/0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 
-We are currently private investment only, please email the dev team to purchase tokens.
+Availible on [Pankcake Swap](https://pancakeswap.finance/swap) with limited liquidity, please be patient.
 
 ### Our Team
 
