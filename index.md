@@ -1,9 +1,10 @@
 # A Web3 platform by creatives for creatives
 
+<p align="center">
 ### [Instagram](https://www.instagram.com/cryptohoesdev/)
 ### [Twitter](https://twitter.com/cryptohoesdev)
 ### [Discord](https://discord.gg/zWTFjW8cds)
-
+</p>
 
 
 [![CryptoHoes Logo](/Logo.png)](https://pancakeswap.finance/swap?outputCurrency=0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
