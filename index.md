@@ -7,21 +7,6 @@ Our mission is to create a better platform by creatives for creatives with the p
 
 ## Road map
 
-The coin itself was designed to raise capital, we have a few projects under our team in the works inlucding
-
-##### Built
-Simple NFTs and ICO
-
-##### Bulding
-Floppy Cock: NFT Bird mobile app
-
-#### Backlog
-1. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
-2. FLIPFLOP: A Tokenized Reels Mobile Platform
-3. BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
-4. Co-lab: A match making mobile app for musicians
-
-
 This is ccurrently very fluid, but here is list of goals we'd like to achieve
 1. Build our own original social media platform using React Native to create a $HOES token economy
 2. Circle back to original ICO contract and reevalutaute (BSC Drawbacks)
@@ -29,6 +14,22 @@ This is ccurrently very fluid, but here is list of goals we'd like to achieve
 4. New products that could exist on the ecosystem.
 
 Feel free to email if you are a VC interested in guding the project, we'd love to have professional audits/partnerships for investor relations
+The coin itself was designed to raise capital, we have a few projects under our team in the works inlucding
+
+#### Built
+Simple NFTs and ICO
+
+#### Bulding
+Floppy Cock: NFT Bird mobile app
+
+### Backlog
+1. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
+2. FLIPFLOP: A Tokenized Reels Mobile Platform
+3. BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
+4. Co-lab: A match making mobile app for musicians
+
+
+
 
 ### Our ICO
 
