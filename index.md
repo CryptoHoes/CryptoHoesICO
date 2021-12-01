@@ -1,5 +1,6 @@
+<head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
+</head>
 
 
 # A Web3 platform by creatives for creatives
