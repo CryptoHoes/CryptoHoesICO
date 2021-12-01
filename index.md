@@ -2,7 +2,7 @@
 
 
 
-# [A Web3 platform by creatives for creatives](align="center")
+# A Web3 platform by creatives for creatives
  
 [![CryptoHoes Logo](/Logo.png)](https://pancakeswap.finance/swap?outputCurrency=0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
 ### [Instagram](https://www.instagram.com/cryptohoesdev/)
