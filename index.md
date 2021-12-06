@@ -6,6 +6,7 @@
 # A Web3 platform by creatives for creatives
  
 [![CryptoHoes Logo](/Logo.png)](https://pancakeswap.finance/swap?outputCurrency=0xC76F08B7B723d3b0461cEc8206710cd12D71f2a2)
+
 ### [Instagram](https://www.instagram.com/cryptohoesdev/)
 ### [Twitter](https://twitter.com/cryptohoesdev)
 ### [Discord](https://discord.gg/zWTFjW8cds)
@@ -32,7 +33,7 @@ The coin itself was designed to raise capital, we have a few projects under our 
 Simple NFTs and ICO
 
 #### Bulding
-Floppy Cock: NFT Bird mobile app
+[Floppy Cock: NFT Bird mobile app](https://testflight.apple.com/join/ArWUY9ju)
 
 #### Backlog
 1. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
