@@ -33,7 +33,7 @@ The coin itself was designed to raise capital, we have a few projects under our 
 Simple NFTs and ICO
 
 #### Bulding
-[Floppy Cock: NFT Bird mobile app](https://testflight.apple.com/join/ArWUY9ju)
+[HoesMad: NFT Bird mobile app](https://testflight.apple.com/join/ArWUY9ju)
 
 #### Backlog
 1. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
