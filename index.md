@@ -21,7 +21,7 @@ Our mission is to create a better platform by creatives for creatives with the p
 ## Road map
 
 This is ccurrently very fluid, but here is list of goals we'd like to achieve
-1. Build our own original social media platform using React Native to create a $HOES token economy
+1. Build our own original React Native to create a $HOES token economy
 2. Circle back to original ICO contract and reevalutaute (BSC Drawbacks)
 3. Integrate Tokenomics that are both battle tested and rewarding to investors (Alternating Smart Contract Utility Implementations)
 4. New products that could exist on the ecosystem.
