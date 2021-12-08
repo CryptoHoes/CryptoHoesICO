@@ -99,6 +99,8 @@ To purchase:
 
 Our team is organized on Snapchat through University connections and investor relations alike, we are working to make features worth investing in.
 
+LinkedIns:
+[Jon Gan](https://www.linkedin.com/in/jongan69/)
 
 
 ### Support or Contact
