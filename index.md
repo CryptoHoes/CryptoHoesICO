@@ -21,25 +21,27 @@ Our mission is to create better platforms by creatives for creatives using the p
 ## Road map
 
 This is ccurrently very fluid, but here is list of goals we'd like to achieve
-1. Build our own original React Native Game to create a $HOES token economy
-2. Circle back to original ICO contract and reevalutaute (BSC Drawbacks)
-3. Integrate Tokenomics that are both battle tested and rewarding to investors (Alternating Smart Contract Utility Implementations)
-4. New products that could exist on the ecosystem.
+1. [Build our own original React Native Game to create a $HOES token economy](https://github.com/CryptoHoes/HoesMad)
+2. [Circle back to original ICO contract and reevalutaute BSC Drawbacks](https://github.com/binance-chain/bsc/issues/553)
+3. [Integrate Tokenomics that are both battle tested and rewarding to investors: Alternating Smart Contract Utility Implementations](https://read.cash/@CryptoSorted/3-ways-to-easily-move-funds-from-one-chain-to-another-7155d6aa)
+4. [New products that could exist on the ecosystem](https://github.com/jongan69/SneakerBando-EShop)
 
 Feel free to email if you are a VC interested in guding the project, we'd love to have professional audits/partnerships for investor relations
 The coin itself was designed to raise capital, we have a few projects under our team in the works inlucding
 
 #### Built
-Simple NFTs and ICO
+ICO
+- HoesMad Beta
 
 #### Bulding
-[HoesMad: Mobile NFT Game](https://testflight.apple.com/join/ArWUY9ju)
+[HoesMad Beta: Mobile NFT Game](https://testflight.apple.com/join/ArWUY9ju)
 
 #### Backlog
-1. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
-2. FLIPFLOP: A Tokenized Reels Mobile Platform
-3. BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
-4. Co-lab: A match making mobile app for musicians
+1. [SneakerBando](https://github.com/jongan69/SneakerBando-EShop)
+2. METADATA: A Tokenized Peer-Reviewed Article Publication Platform
+3. FLIPFLOP: A Tokenized Reels Mobile Platform
+4. BRICKLIQ Capital: A parent company designed to stake and lend Cryptos for project financing
+5. Co-lab: A match making mobile app for musicians
 
 
 
