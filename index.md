@@ -16,12 +16,12 @@
 Brands like Tiktok, Facebook, Snapchat, and more are constantly creating new 'products' that thrive off the financing of our data without any regard for our 
 compensation to the point that virality seems like a gimmicc.
 
-Our mission is to create a better platform by creatives for creatives with the power and tools of Web3.
+Our mission is to create better platforms by creatives for creatives using the power of Web3.
 
 ## Road map
 
 This is ccurrently very fluid, but here is list of goals we'd like to achieve
-1. Build our own original React Native to create a $HOES token economy
+1. Build our own original React Native Game to create a $HOES token economy
 2. Circle back to original ICO contract and reevalutaute (BSC Drawbacks)
 3. Integrate Tokenomics that are both battle tested and rewarding to investors (Alternating Smart Contract Utility Implementations)
 4. New products that could exist on the ecosystem.
