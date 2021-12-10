@@ -20,7 +20,7 @@ Our mission is to create better platforms by creatives for creatives using the p
 
 ## Road map
 
-This is ccurrently very fluid, but here is list of goals we'd like to achieve
+This is currently very fluid, but here is list of goals we'd like to achieve
 1. [Build our own original React Native Game to create a $HOES token economy](https://github.com/CryptoHoes/HoesMad)
 2. [Circle back to original ICO contract and reevalutaute BSC Drawbacks](https://github.com/binance-chain/bsc/issues/553)
 3. [Integrate Tokenomics that are both battle tested and rewarding to investors: Alternating Smart Contract Utility Implementations](https://read.cash/@CryptoSorted/3-ways-to-easily-move-funds-from-one-chain-to-another-7155d6aa)
